@@ -5,6 +5,10 @@ An advanced recipe finder built with React + TypeScript, backed by
 key required). Styled as a chalkboard menu board — pinned recipe cards, chalk
 typography, and a saffron/paprika/sage accent palette.
 
+## Output
+
+![Output Screenshot](./Screenshot.png)
+
 ## Features
 
 - **Search by name** — debounced live search as you type.
